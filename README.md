@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/hidden" target="blank"><img src="https://img.shields.io/twitter/follow/hidden?logo=twitter&style=for-the-badge" alt="hidden" /></a> </p>
 
-- 🔭 I’m currently working on **Nil**
+- 🔭 I’m currently working on **[Nil]**
 
 - 🌱 I’m currently learning **Html**
 
-- 👯 I’m looking to collaborate on **Nil**
+- 👯 I’m looking to collaborate on **[Nil]**
 
-- 🤝 I’m looking for help with **Nil**
+- 🤝 I’m looking for help with **[Nil]**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kazutxo](https://github.com/kazutxo)
+- 👨‍💻 All of my projects are available at [kazutxo](https://github.com/kazutxo)
 
-- 📝 I regularly write articles on [Nil](Nil)
+- 📝 I regularly write articles on [Nil]
 
 - 📫 How to reach me **kazutxo@gmail.com**
 
-- 📄 Know about my experiences [Nil](Nil)
+- 📄 Know about my experiences [Nil]
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -60,4 +60,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazutxo&show_icons=true&locale=en" alt="kazutxo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazutxo&" alt="kazutxo" /></p>
-....
