@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazutxo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src='code.gif' alt='code'>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazutxo&label=Profile%20views&color=0e75b6&style=flat" alt="kazutxo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazutxo" alt="kazutxo" /></a> </p>
@@ -62,4 +61,4 @@
 
 <p><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F523%2F686%2F385%2Fsword-art-online-aincrad-sword-art-online-anime-castle-wallpaper-preview.jpg&tbnid=1luuCMsOWgLoXM&vet=1&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Daincrad&docid=PHZsPdhZfFD1QM&w=728&h=410&hl=en-IN&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=187f093253c5fe71&shem=abme%2Ctrie" alt="kazutxo" /></p>
 <h4>MOVIES 🎬</h4>
-⚙️ [INTERSTELLAR](https://drive.google.com/file/d/1Y-5vtZ5Dah0DB2G8D5sqK6b8Kll0vDnD/view?usp=drivesdk)
+⚙️ [INTERSTELLAR(https://drive.google.com/file/d/1Y-5vtZ5Dah0DB2G8D5sqK6b8Kll0vDnD/view?usp=drivesdk)
