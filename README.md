@@ -1,7 +1,9 @@
  <img src="https://github.com/kazutxo/kazutxo/blob/main/Sakura.gif" alt="sakura">
 <h1>Hi, I am <a href=""https://github.com/kazutxo">Kazutxo</a> <img src="https://github.com/kazutxo/kazutxo/blob/main/ww%20(1)%20(1).gif" width="35px"></h1>
-## Who am I?
- ```python
+
+<h2>Who am I ?</h2>
+ 
+ ``` python
  class WhoAmI:
  	user = 'Haany Ali'
 		current_work = 'Writing code'
