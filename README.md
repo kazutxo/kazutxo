@@ -12,7 +12,7 @@
 				'Watching Anime',
 				'Reading Sci-Fi Novels / Mangas'
 				'Being up all Night chasing that ONE BUG...'
-			]
+			 ]
 	
 	def getplanet():
 		return Earth_Milkyway()
