@@ -1,3 +1,5 @@
+<img src="sakura.gif" alt="Banner">
+
 <h1 align="center">Hi 👋, I'm Kazutxo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src='code.gif' alt='code'>
