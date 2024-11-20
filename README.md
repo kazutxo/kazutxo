@@ -1,26 +1,25 @@
  <img src="https://github.com/kazutxo/kazutxo/blob/main/Sakura.gif" alt="sakura">
-<h1>Hi, I am <a href=""https://github.com/kazutxo">Kazutxo</a> <img src="https://github.com/kazutxo/kazutxo/blob/main/ww%20(1)%20(1).gif" width="35px"></h1>
+<h1>Hi, I am <a href=""https://github.com/kazutxo">Kazuto</a> <img src="https://github.com/kazutxo/kazutxo/blob/main/ww%20(1)%20(1).gif" width="35px"></h1>
 
 <h2>Who am I ?</h2>
  
  ``` python
  class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
+ 	user = 'Kazuto'
+		current_work = 'Studies'
 		hobbies = [
 				'Drawing',
 				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Reading Sci-Fi Novels / Mangas'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
-	def getCity():
-		return Vancouver_Canada()
+	def getplanet():
+		return Earth_Milkyway()
 	
 	def Ambitions():
 		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		FinishMyMangas()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
