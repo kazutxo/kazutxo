@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kazutxo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src='code.gif' alt='code'>
+<img src='sakura.gif' alt='code'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazutxo&label=Profile%20views&color=0e75b6&style=flat" alt="kazutxo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazutxo" alt="kazutxo" /></a> </p>
