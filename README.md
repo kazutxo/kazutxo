@@ -26,8 +26,6 @@
 <h3>Listening To </h3>
 <p>
   🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
+  <a href="https://open.spotify.com/track/7tYKa4wd7gL5LwcxidBPkG?si=gNpQnOIgTdK3QFfyeVKzXw">
     <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
   </a><br/>
-  <a href="https://open.spotify.com/track/7tYKa4wd7gL5LwcxidBPkG?si=gNpQnOIgTdK3QFfyeVKzXw"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
