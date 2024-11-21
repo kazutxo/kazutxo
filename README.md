@@ -27,5 +27,5 @@
 <p>
   🎶Now playing ...🎶<br/>
   <a href="https://open.spotify.com/track/7tYKa4wd7gL5LwcxidBPkG?si=gNpQnOIgTdK3QFfyeVKzXw">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
+    <img src="https://github.com/kazutxo/kazutxo/blob/main/Sad%20Song.jpg" height="75">
   </a><br/>
