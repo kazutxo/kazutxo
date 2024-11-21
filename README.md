@@ -27,5 +27,5 @@
 <p>
   🎶Now playing ...🎶<br/>
   <a href="https://open.spotify.com/track/7tYKa4wd7gL5LwcxidBPkG?si=gNpQnOIgTdK3QFfyeVKzXw">
-    <img src="https://github.com/kazutxo/kazutxo/blob/main/Sad%20Song.jpg" width ="720" height="142">
+    <img src="https://github.com/kazutxo/kazutxo/blob/main/Sad%20Song.jpg">
   </a><br/>
