@@ -27,7 +27,7 @@
 <a href="https://open.spotify.com/track/7tYKa4wd7gL5LwcxidBPkG?si=gNpQnOIgTdK3QFfyeVKzXw">
     <img src="https://github.com/kazutxo/kazutxo/blob/main/Sad%20Song.jpg" alt="Sad Song">
 </a>
-<h5> MOVIES </h5>
+<h5> MOVIES 🍿 </h5>
 💠 INTERSTELLAR <br>
 🌡️
 <a href="https://drive.google.com/file/d/1Y-5vtZ5Dah0DB2G8D5sqK6b8Kll0vDnD/view?usp=drivesdk">
