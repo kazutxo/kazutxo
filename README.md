@@ -23,9 +23,9 @@
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
-<h3>Listening To </h3>
+<h3>Currently Listening To </h3>
 <p>
-  🎶Now playing ...🎶<br/>
+  <br/>
   <a href="https://open.spotify.com/track/7tYKa4wd7gL5LwcxidBPkG?si=gNpQnOIgTdK3QFfyeVKzXw">
     <img src="https://github.com/kazutxo/kazutxo/blob/main/Sad%20Song.jpg">
   </a><br/>
