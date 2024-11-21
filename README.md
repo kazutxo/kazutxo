@@ -23,7 +23,7 @@
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
-<h3>Currently Listening To </h3>
+<h3>Currently Listening To 🎧</h3>
 <p>
   <br/>
   <a href="https://open.spotify.com/track/7tYKa4wd7gL5LwcxidBPkG?si=gNpQnOIgTdK3QFfyeVKzXw">
