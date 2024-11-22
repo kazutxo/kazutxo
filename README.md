@@ -6,7 +6,7 @@
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Science is my jam](https://img.shields.io/badge/My%20Jam-Science-success?style=flat-square&logo=electron&logoColor=white)](https://en.wikipedia.org/wiki/Science)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+![Android](https://img.shields.io/badge/OS-Android-neon?style=flat-square&logo=android&logoColor=white)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
 
  ``` python
