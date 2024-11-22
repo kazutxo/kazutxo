@@ -2,7 +2,10 @@
 <h1>Hi, I am <a href=""https://github.com/kazutxo">Kazuto</a> <img src="https://github.com/kazutxo/kazutxo/blob/main/ww%20(1)%20(1).gif" width="35px"></h1>
 
 <h2>Who am I ?</h2>
- 
+ [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
+[![Science is my jam](https://img.shields.io/badge/My%20Jam-Science-success?style=flat-square&logo=electron&logoColor=white)](https://en.wikipedia.org/wiki/Science)
+
  ``` python
  class WhoAmI:
  	user = 'Kazuto'
